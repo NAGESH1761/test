@@ -13,7 +13,7 @@ if z < x and z < y :
 
 print(smallest, "is the smallest of three numbers.")
 
-#output
+##output
 #Enter first number  : 2
 #Enter second number : 4
 #Enter third number  : 6
